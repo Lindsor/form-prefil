@@ -1,0 +1,24 @@
+{
+  "name": "ln-form-prefil",
+  "version": "1.0.0",
+  "description": "Prefills the selected form based on the pased in object.",
+  "main": "prefill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Lindsor/form-prefil.git"
+  },
+  "keywords": [
+    "form",
+    "prefill",
+    "automate"
+  ],
+  "author": "Marcelo Luz <marcelopluz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lindsor/form-prefil/issues"
+  },
+  "homepage": "https://github.com/Lindsor/form-prefil#readme"
+}
